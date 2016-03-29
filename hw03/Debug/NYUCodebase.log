@@ -1,0 +1,12 @@
+﻿Build started 3/10/2016 2:17:30 PM.
+     1>Project "C:\Users\Tom\Documents\Visual Studio 2013\Projects\cs3113-hws\hw03\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\glew\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt spaceInvaders.cpp
+         spaceInvaders.cpp
+     1>c:\users\tom\documents\visual studio 2013\projects\cs3113-hws\hw03\nyucodebase\spaceinvaders.cpp(172): error C2660: 'SpaceInvaders::shootBullet' : function does not take 0 arguments
+     1>c:\users\tom\documents\visual studio 2013\projects\cs3113-hws\hw03\nyucodebase\spaceinvaders.cpp(215): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>Done Building Project "C:\Users\Tom\Documents\Visual Studio 2013\Projects\cs3113-hws\hw03\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.68
